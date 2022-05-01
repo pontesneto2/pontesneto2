@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @pontesneto2;
-- 👀 I’m interested in codaaar;
-- 🌱 I’m currently learning javascript and react native;
-- 📫 How to reach me pontesneto2@hotmail.com;
+- 👋 Hi, I'm Pontes Neto. Software Developer with a designer background. Currently i work in the government of the State of Ceará and I am doing a Full Stack specialization at Digital College Fortaleza.
 
 <!---
 pontesneto2/pontesneto2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
