@@ -27,5 +27,3 @@
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=transparent)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pontesneto2&repo=app-fp-personal)](https://github.com/pontesneto2/app-fp-personal)
