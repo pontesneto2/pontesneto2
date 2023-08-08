@@ -1,7 +1,4 @@
 ## Hi there! Welcome to my Github. I am a Full Stack Developer👨‍💻
-##
-
-<h2 style="font-size: 15px; color:#E3405F; font-family:helvetica;">Main everyday tools...</h2>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Pontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pontes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
