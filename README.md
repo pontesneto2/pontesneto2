@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu perfil. 
+# Olá! Bem vindo ao meu perfil. 
 #### Eu sou um dev apaixonado por conhecimento👨‍💻
 <div style="display: inline_block;"><br>
   <img align="center" alt="Pontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@
   
 </div>
 
- <h2 style="font-size: 13px; color:#E3405F; font-family:helvetica;">Converse comigo!</h2>
+# Converse comigo!
 <div> 
   <a href = "mailto:pontesneto2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pontesnetodeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
