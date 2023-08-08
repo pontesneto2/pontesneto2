@@ -1,4 +1,4 @@
-## <Hello World! Welcome to my Github. I am a Full Stack Developer 👨‍💻/>
+## Hi there! Welcome to my Github. I am a Full Stack Developer👨‍💻
 ##
 <div align="start" style="display: inline-block;">
   <a href="https://github.com/pontesneto2">
@@ -26,7 +26,7 @@
 </div>
   
   ##
- <h2 style="font-size: 15px; color:#E3405F; font-family:helvetica;">Follow me...</h2>
+ <h2 style="font-size: 15px; color:#E3405F; font-family:helvetica;">Minhas redes...</h2>
 <div> 
   <a href="https://instagram.com/pontesmesmo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pontesneto2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
