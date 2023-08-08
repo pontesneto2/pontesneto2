@@ -2,8 +2,8 @@
 ##
 <div align="start" style="display: inline-block;">
   <a href="https://github.com/pontesneto2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style = "border-radius:15px; border:solid 2px #FFF;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pontesneto2&layout=demo&langs_count=7&theme=radical" style = "border-radius:15px; border:solid 2px #FFF;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style = "border-radius:15px; border:solid 3px #FFF;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pontesneto2&layout=demo&langs_count=7&theme=radical" style = "border-radius:15px; border:solid 3px #FFF;"/>
 </div>
 
 <h2 style="font-size: 15px; color:#E3405F; font-family:helvetica;">Main everyday tools...</h2>
