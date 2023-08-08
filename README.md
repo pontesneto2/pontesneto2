@@ -3,9 +3,9 @@
 <div style="display: inline_block;"><br>
   <img align="center" alt="Pontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pontes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Pontes-React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
   <img align="center" alt="Pontes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pontes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pontes-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Pontes-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Pontes-filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"/>
   <img align="center" alt="Pontes-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -18,7 +18,7 @@
   
 </div>
 
- <h2 style="font-size: 15px; color:#E3405F; font-family:helvetica;">Converse comigo!</h2>
+ <h2 style="font-size: 13px; color:#E3405F; font-family:helvetica;">Converse comigo!</h2>
 <div> 
   <a href = "mailto:pontesneto2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pontesnetodeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
