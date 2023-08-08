@@ -26,5 +26,5 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=transparent&include_all_commits )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=transparent)
 
