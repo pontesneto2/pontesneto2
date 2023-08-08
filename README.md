@@ -25,7 +25,8 @@
 </div>
 
 ###
-<div>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipontesneto2anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=commits)
-</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipontesneto2anuraghazra&hide=commits)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipontesneto2anuraghazra&show_icons=true)
+
