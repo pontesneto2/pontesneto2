@@ -14,16 +14,4 @@
   <img align="center" alt="Pontes-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
   <img align="center" alt="Pontes-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
   <img align="center" alt="Pontes-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-  
 </div>
-
-# Converse comigo!
-<div> 
-  <a href = "mailto:pontesneto2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pontesnetodeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://pontesnetodev.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-</div>
-
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=transparent)
