@@ -1,26 +1,24 @@
-# Olá! Bem vindo ao meu perfil.
+## Olá!
 #### DevOps | Engenheiro de Software @Unifor
 
-<!-- Tech Stack (menor + alinhado à esquerda) -->
 <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,azure,xcode,angular,php&theme=dark"
-    height="42"
-  />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,angular,php&theme=dark" />
 </p>
 
-<!-- Badges extras (alinhados à esquerda) -->
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Apache%20Spark-111?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
   <img src="https://img.shields.io/badge/React%20Native-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
+
 ---
+
 
 ## 📊 Estatísticas
 
-<!-- Linha 1: Perfil (unificado) -->
+
+
 <p align="center">
   <img
     width="900"
@@ -29,21 +27,29 @@
   />
 </p>
 
-<!-- Linha 2: Stats + Commits (card extra só para commits) -->
+<p align="center">
 <p align="center">
   <img
     width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pontesneto2&theme=tokyonight"
     alt="Stats"
   />
+</p>
+
+<p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=pontesneto2&hide=stars,prs,issues,contribs&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Commits%202025&from=2025-01-01&to=2025-12-31"
     width="440"
-    src="https://github-stats-alpha.vercel.app/api?username=pontesneto2&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffffff"
-    alt="Total Commits / Stars / PRs"
   />
 </p>
 
-<!-- Linha 3: Linguagens -->
+  <img
+    width="440"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
+    alt="Productive Time"
+  />
+</p>
+
 <p align="center">
   <img
     width="440"
@@ -57,16 +63,6 @@
   />
 </p>
 
-<!-- Linha 4: Horário produtivo -->
-<p align="center">
-  <img
-    width="900"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
-    alt="Productive Time"
-  />
-</p>
-
-<!-- Linha 5: Activity Graph -->
 <p align="center">
   <img
     width="900"
