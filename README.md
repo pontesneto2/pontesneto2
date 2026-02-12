@@ -1,8 +1,9 @@
-## Olá!
-#### DevOps | Engenheiro de Software @Unifor
+## Olá! Bem vindo ao meu perfil.
+##### DevOps | Engenheiro de Software @Unifor | UX Ops
+##### Conheça meu site: https://pontes-portfolio.vercel.app
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,angular,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,azure,xcode,angular,php&theme=dark" />
 </p>
 
 <p align="left">
@@ -12,10 +13,11 @@
 </p>
 
 
----
+----
 
 
 ## 📊 Estatísticas
+
 
 
 
@@ -28,21 +30,11 @@
 </p>
 
 <p align="center">
-<p align="center">
   <img
     width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pontesneto2&theme=tokyonight"
     alt="Stats"
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pontesneto2&hide=stars,prs,issues,contribs&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Commits%202025&from=2025-01-01&to=2025-12-31"
-    width="440"
-  />
-</p>
-
   <img
     width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
