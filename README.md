@@ -1,12 +1,15 @@
 # Olá! Bem vindo ao meu perfil.
 #### DevOps | Engenheiro de Software @Unifor
 
-<!-- Tech Stack (somente as tecnologias que você pediu) -->
+<!-- Tech Stack (menor + alinhado à esquerda) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,azure,xcode,angular,php&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,azure,xcode,angular,php&theme=dark"
+    height="42"
+  />
 </p>
 
-<!-- Badges extras (Power BI e Spark não estão no skillicons) -->
+<!-- Badges extras (alinhados à esquerda) -->
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Apache%20Spark-111?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
@@ -17,11 +20,7 @@
 
 ## 📊 Estatísticas
 
-<!--
-  Padrão "bonito": UM provedor de cards (github-profile-summary-cards)
-  Resultado: tudo com o mesmo background/estilo e a mesma largura.
--->
-
+<!-- Linha 1: Perfil (unificado) -->
 <p align="center">
   <img
     width="900"
@@ -30,6 +29,7 @@
   />
 </p>
 
+<!-- Linha 2: Stats + Commits (card extra só para commits) -->
 <p align="center">
   <img
     width="440"
@@ -38,11 +38,12 @@
   />
   <img
     width="440"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
-    alt="Productive Time"
+    src="https://github-stats-alpha.vercel.app/api?username=pontesneto2&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffffff"
+    alt="Total Commits / Stars / PRs"
   />
 </p>
 
+<!-- Linha 3: Linguagens -->
 <p align="center">
   <img
     width="440"
@@ -56,6 +57,16 @@
   />
 </p>
 
+<!-- Linha 4: Horário produtivo -->
+<p align="center">
+  <img
+    width="900"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
+    alt="Productive Time"
+  />
+</p>
+
+<!-- Linha 5: Activity Graph -->
 <p align="center">
   <img
     width="900"
