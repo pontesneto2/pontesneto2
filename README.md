@@ -24,11 +24,11 @@
     src="https://github-stats-alpha.vercel.app/api?username=pontesneto2&cc=0d1117&tc=38bdae&ic=bf91f3&bc=ffffff"
     alt="GitHub Stats"
   />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pontesneto2&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pontesneto2&theme=tokyonight" 
   />
+</p>
 </p>
 
 <p align="center">
