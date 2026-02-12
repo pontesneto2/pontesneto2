@@ -15,3 +15,32 @@
   <img align="center" alt="Pontes-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
   <img align="center" alt="Pontes-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 </div>
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-stats-alpha.vercel.app/api?username=pontesneto2&cc=0d1117&tc=38bdae&ic=bf91f3&bc=ffffff"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pontesneto2&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pontesneto2&theme=tokyo-night&hide_border=true"
+    alt="Activity Graph"
+  />
+</p>
