@@ -1,9 +1,9 @@
 ## Olá! Bem vindo ao meu perfil.
-##### DevOps | Engenheiro de Software @Unifor | UX Ops
+##### DevOps | Engenheiro de Software @Unifor | U X/U I Ops
 ##### Conheça meu site: https://pontes-portfolio.vercel.app
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,azure,xcode,angular,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,mongo,angular,php&theme=dark" />
 </p>
 
 <p align="left">
