@@ -1,51 +1,64 @@
-## Olá!
+# Olá! Bem vindo ao meu perfil.
 #### DevOps | Engenheiro de Software @Unifor
 
-<div style="display: inline_block;"><br>
-  <img align="center" alt="Pontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pontes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pontes-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" alt="Pontes-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Pontes-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="Pontes-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Pontes-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
-  <img align="center" alt="Pontes-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
-  <img align="center" alt="Pontes-xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-</div>
+<!-- Tech Stack (somente as tecnologias que você pediu) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,vercel,azure,xcode,angular,php&theme=dark" />
+</p>
+
+<!-- Badges extras (Power BI e Spark não estão no skillicons) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-111?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+  <img src="https://img.shields.io/badge/React%20Native-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
+<!--
+  Padrão "bonito": UM provedor de cards (github-profile-summary-cards)
+  Resultado: tudo com o mesmo background/estilo e a mesma largura.
+-->
 
 <p align="center">
   <img
-    width="360"
-    src="https://github-stats-alpha.vercel.app/api?username=pontesneto2&cc=0d1117&tc=38bdae&ic=bf91f3&bc=ffffff"
-    alt="GitHub Stats"
+    width="900"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pontesneto2&theme=tokyonight"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="440"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pontesneto2&theme=tokyonight"
+    alt="Stats"
   />
   <img
-    width="360"
+    width="440"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
+    alt="Productive Time"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pontesneto2&theme=tokyonight"
-    alt="Repos per language"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="360"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Top Languages by Repo"
   />
   <img
-    width="360"
+    width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pontesneto2&theme=tokyonight"
-    alt="Most commit language"
+    alt="Top Languages by Commit"
   />
 </p>
 
 <p align="center">
   <img
+    width="900"
     src="https://github-readme-activity-graph.vercel.app/graph?username=pontesneto2&theme=tokyo-night&hide_border=true"
     alt="Activity Graph"
   />
