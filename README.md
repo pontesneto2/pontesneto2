@@ -3,13 +3,7 @@
 ##### Conheça meu site: https://pontes-portfolio.vercel.app
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,prisma,docker,kubernetes,figma,wordpress,mongo,angular,php&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-111?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
-  <img src="https://img.shields.io/badge/React%20Native-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,docker,kubernetes,figma,wordpress&theme=dark" />
 </p>
 
 
