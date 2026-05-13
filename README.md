@@ -1,5 +1,5 @@
 ## Olá! Bem vindo ao meu perfil.
-##### DevOps | Engenheiro de Software @Unifor | U X/U I Ops
+##### DevOps | Engenheiro de Software
 ##### Conheça meu site: https://pontes-portfolio.vercel.app
 
 <p align="left">
