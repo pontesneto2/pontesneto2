@@ -25,19 +25,6 @@
 
 <p align="center">
   <img
-    width="440"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pontesneto2&theme=tokyonight"
-    alt="Top Languages by Repo"
-  />
-  <img
-    width="440"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pontesneto2&theme=tokyonight"
-    alt="Top Languages by Commit"
-  />
-</p>
-
-<p align="center">
-  <img
     width="900"
     src="https://github-readme-activity-graph.vercel.app/graph?username=pontesneto2&theme=tokyo-night&hide_border=true"
     alt="Activity Graph"
