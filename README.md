@@ -26,11 +26,6 @@
 <p align="center">
   <img
     width="440"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pontesneto2&theme=tokyonight"
-    alt="Stats"
-  />
-  <img
-    width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pontesneto2&theme=tokyonight&utcOffset=-3"
     alt="Productive Time"
   />
