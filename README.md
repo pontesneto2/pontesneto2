@@ -3,7 +3,7 @@
 ##### Conheça meu site: https://pontes-portfolio.vercel.app
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,docker,kubernetes,figma,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,docker,kubernetes,figma,java, angular, wordpress&theme=dark" />
 </p>
 
 
