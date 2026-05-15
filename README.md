@@ -22,11 +22,4 @@
     alt="Profile Details"
   />
 </p>
-
-<p align="center">
-  <img
-    width="900"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pontesneto2&theme=tokyo-night&hide_border=true"
-    alt="Activity Graph"
-  />
 </p>
