@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%7C+DevOps;Web+%7C+Mobile+%7C+UX%2FUI;Do+esbo%C3%A7o+ao+deploy;Experiencia+internacional;Sempre+aprendendo" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/fcopts"><img src="https://img.shields.io/badge/Open%20to%20Work-%2300B37D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pontes-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%236e40c9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fcopts"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
