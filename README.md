@@ -4,10 +4,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fcopts"><img src="https://img.shields.io/badge/Open%20to%20Work-%2300B37D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pontes-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%236e40c9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fcopts"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pontesneto2&style=for-the-badge&color=6e40c9" />
+  <img src="https://img.shields.io/badge/Contribuicoes_2025-203-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contribuicoes_2026-1130-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_desde-2022_(4_anos)-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fcopts" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://pontes-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a>
+  <a href="https://github.com/pontesneto2" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 </p>
 
 ---
