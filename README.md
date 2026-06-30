@@ -21,11 +21,11 @@ Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 ```
 <p><sub><b>Redes Sociais</b></sub></p>
 
-<table border="0" cellpadding="10">
+<table border="0" cellpadding="5">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/fcopts" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="32" /><br/>
+    <td align="center" style="border: 0;">
+      <a href="https://www.linkedin.com/in/fcopts" target="_blank" style="border: 0;">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="32" style="border: 0;"/><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
