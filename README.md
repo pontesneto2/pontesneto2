@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Francisco%20Pontes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20DevOps%20%7C%20UX%20Ops&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Francisco%20Pontes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20DevOps%20%7C%20UX%20Ops&descAlignY=55&descAlign=50&animationDuration=1.5" />
 </p>
 
 <p align="center">
