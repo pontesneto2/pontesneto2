@@ -16,15 +16,11 @@
 Sou **Engenheiro de Software** com foco em DevOPS e Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas.
 Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor em Portugal e Irlanda. Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 
-**Atualmente:** Engenheiro de Software no **Grupo Star Capital**
-
 ```yaml
 Localização:   Fortaleza, CE - Brasil
-Empresa:       Star Capital
-Expertise:     SR Software Engineer e Mobile Dev
-Formação:      Farias Brito - Análise e Desenvolvimento de Sistemas
-Pós-grad:      Unifor - Engenharia de Software com ênfase em DevOps
-Espec:         Digital College - Desenvolvimento Web Fullstack
+Trabalho atual: Star Capital
+Stack Principal: Full JS
+Modo: Presencial
 ```
 <p align="center">
   <a href="https://www.linkedin.com/in/fcopts" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
