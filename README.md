@@ -55,16 +55,6 @@ Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
   <img src="https://raw.githubusercontent.com/pontesneto2/pontesneto2/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-## Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pontesneto2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
 ## Estatísticas
 
 <p align="center">
@@ -79,5 +69,3 @@ Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true&starting_year=2022" />
 </p>
-
----
