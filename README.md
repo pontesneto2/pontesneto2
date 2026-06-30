@@ -77,7 +77,7 @@ Pos-grad:      Engenharia de Software com enfase em DevOps
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true&starting_year=2022" />
 </p>
 
 ---
