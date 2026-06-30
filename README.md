@@ -14,7 +14,7 @@
 ## Sobre mim
 
 Sou **Engenheiro de Software** com foco em DevOPS e Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas.
-Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor em Portugal e Irlanda. Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
+Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor em Portugal e Irlanda.
 
 ```yaml
 Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
