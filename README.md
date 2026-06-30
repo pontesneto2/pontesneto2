@@ -10,6 +10,12 @@
 ----
 
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es%202025-203-blue?style=for-the-badge&logo=github" alt="Contribuições 2025" />
+    <img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es%202026-1130-brightgreen?style=for-the-badge&logo=github" alt="Contribuições 2026" />
+    <img src="https://img.shields.io/badge/GitHub%20desde-2022%20%284%20anos%29-purple?style=for-the-badge&logo=github" alt="Tempo no GitHub" />
+</p>
+
 ## 📊 Estatísticas
 
 
