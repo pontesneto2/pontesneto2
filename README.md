@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribuicoes_2025-1927-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contribuicoes_2026-1130-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/pontesneto2?style=for-the-badge&logo=github&label=Stars&color=brightgreen" />
-  <img src="https://img.shields.io/badge/GitHub_desde-2022_(4_anos)-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contribuições_2025-1927-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contribuições_2026-1130-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/pontesneto2?style=for-the-badge&logo=github&label=Stars&color=yellow" />
+  <img src="https://img.shields.io/badge/GitHub_desde-2022_-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 
 ## Sobre mim
 
-Sou **Engenheiro de Software** com foco em DevOPS e **Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas.
+Sou **Engenheiro de Software** com foco em DevOPS e Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas.
 Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor em Portugal e Irlanda. Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 
 **Atualmente:** Engenheiro de Software no **Grupo Star Capital**
