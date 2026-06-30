@@ -19,12 +19,30 @@ Possuo vasta experiência na área com forte atuação no setor público, lidera
 ```yaml
 Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 ```
-<p align="center">
-  <a href="https://www.linkedin.com/in/fcopts" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="https://pontes-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="48" /></a>
-  <a href="https://github.com/pontesneto2" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
-</p>
+<p><sub><b>Redes Sociais</b></sub></p>
 
+<table border="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/fcopts" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="32" /><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pontes-portfolio.vercel.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="32" /><br/>
+        <sub><b>Portfólio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pontesneto2" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="32" /><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
