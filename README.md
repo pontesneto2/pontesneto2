@@ -50,11 +50,6 @@ Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,docker,kubernetes,figma,wordpress&theme=dark" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pontesneto2/pontesneto2/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ## Estatísticas
 
 <p align="center">
@@ -68,4 +63,8 @@ Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true&starting_year=2022" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pontesneto2/pontesneto2/output/github-contribution-grid-snake-dark.svg" />
 </p>
