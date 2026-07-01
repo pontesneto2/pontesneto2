@@ -11,7 +11,7 @@
 </p>
 
 
-## Sobre mim
+<h4 align="left">- Perfil</h4>
 
 Sou **Engenheiro de Software** com foco em DevOPS e Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas.
 Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor em Portugal e Irlanda.
@@ -19,52 +19,75 @@ Possuo vasta experiência na área com forte atuação no setor público, lidera
 ```yaml
 Veja mais no meu portfolio: https://pontes-portfolio.vercel.app/
 ```
-<p><sub><b>Redes Sociais</b></sub></p>
-
-<table border="0" cellpadding="5">
-  <tr>
-    <td align="center" style="border: 0;">
-      <a href="https://www.linkedin.com/in/fcopts" target="_blank" style="border: 0;">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="32" style="border: 0;"/><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pontes-portfolio.vercel.app/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" width="32" /><br/>
-        <sub><b>Portfólio</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pontesneto2" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="32" /><br/>
-        <sub><b>GitHub</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Stack
+<h4 align="left">- Redes Sociais</h4>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,express,nodejs,postgres,docker,kubernetes,figma,wordpress&theme=dark" />
+  <a href="https://www.linkedin.com/in/fcopts">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://pontes-portfolio.vercel.app/">
+    <img 
+      src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfólio"
+    />
+  </a>
+
+  <a href="https://github.com/pontesneto2">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    />
+  </a>
 </p>
 
-## Estatísticas
+<h4 align="left">- Stacks</h4>
+
+<p align="left">
+    <p><sub>Frontend & Mobile</sub></p>
+  <img 
+    height="35"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,expo,html,css,tailwind,sass,styledcomponents,materialui,vite,redux&theme=dark&perline=14" 
+  />
+</p>
+
+<p align="left">
+    <p><sub>Backend & API</sub></p>
+  <img 
+    height="35"
+    src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,firebase,sequelize,redis,graphql,swagger,postman,jest&theme=dark&perline=12" 
+  />
+</p>
+
+<p align="left">
+    <p><sub>DevOps & Claude</sub></p>
+  <img 
+    height="35"
+    src="https://skillicons.dev/icons?i=docker,kubernetes,anaconda,azure,githubactions,vercel,git,nginx,prometheus,grafana,git,github,npm,aws&theme=dark&perline=14" 
+  />
+</p>
+
+<p align="left">
+    <p><sub>Design & CMS</sub></p>
+  <img 
+    height="35"
+    src="https://skillicons.dev/icons?i=figma,xd,wordpress&theme=dark" 
+  />
+</p>
+
+<h4 align="left">- Estatísticas</h4>
 
 <p align="center">
-  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pontesneto2&theme=tokyonight" />
+  <img width="820" src="https://raw.githubusercontent.com/pontesneto2/pontesneto2/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pontesneto2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pontesneto2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pontesneto2&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true&starting_year=2022" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pontesneto2/pontesneto2/output/github-contribution-grid-snake-dark.svg" />
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=pontesneto2&theme=tokyonight&hide_border=true&starting_year=2022" />
 </p>
