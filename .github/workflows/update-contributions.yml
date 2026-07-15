@@ -1,0 +1,44 @@
+name: Update Contributions Badge
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get total contributions
+        id: stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          YEAR=$(date +%Y)
+          FROM="${YEAR}-01-01T00:00:00Z"
+          TO="${YEAR}-12-31T23:59:59Z"
+          TOTAL=$(gh api graphql -f query='query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions}}}}' -f login=pontesneto2 -f from="$FROM" -f to="$TO" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
+          echo "year=$YEAR" >> "$GITHUB_OUTPUT"
+
+      - name: Update badge in README
+        run: |
+          sed -i -E "s/Contribuições_[0-9]{4}-[0-9]+-brightgreen/Contribuições_${{ steps.stats.outputs.year }}-${{ steps.stats.outputs.total }}-brightgreen/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: atualizar badge de contribuições automaticamente"
+            git push
+          else
+            echo "Nenhuma mudança necessária."
+          fi
