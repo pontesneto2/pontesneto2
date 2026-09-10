@@ -12,8 +12,7 @@
 
 <h4 align="left">- Perfil</h4>
 
-Sou **Engenheiro de Software** com foco em DevOPS e Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas.
-Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor em Portugal e Irlanda.
+Sou **Engenheiro de Software** com foco em DevOPS e Web/Mobile. Especializado em transformar estratégia de negócio em soluções digitais completas. Possuo vasta experiência na área com forte atuação no setor público, liderança em setor privado e experiência internacional como desenvolvedor.
 
 ```yaml
 Veja mais no meu portfolio: https://fcopts.com.br/
@@ -28,13 +27,6 @@ Veja mais no meu portfolio: https://fcopts.com.br/
     />
   </a>
 
-  <a href="https://pontes-portfolio.vercel.app/">
-    <img 
-      src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="Portfólio"
-    />
-  </a>
-
   <a href="https://github.com/pontesneto2">
     <img 
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
@@ -43,41 +35,6 @@ Veja mais no meu portfolio: https://fcopts.com.br/
   </a>
 </p>
 
-<h4 align="left">- Stacks</h4>
-
-<p align="left">
-    <p><sub>Frontend & Mobile</sub></p>
-  <img 
-    height="35"
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,expo,html,css,tailwind,sass,styledcomponents,materialui,vite,redux&theme=dark&perline=14" 
-  />
-</p>
-
-<p align="left">
-    <p><sub>Backend & API</sub></p>
-  <img 
-    height="35"
-    src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,firebase,sequelize,redis,graphql,swagger,postman,jest&theme=dark&perline=12" 
-  />
-</p>
-
-<p align="left">
-    <p><sub>DevOps & Claude</sub></p>
-  <img 
-    height="35"
-    src="https://skillicons.dev/icons?i=docker,kubernetes,anaconda,azure,githubactions,vercel,git,nginx,prometheus,grafana,git,github,npm,aws&theme=dark&perline=14" 
-  />
-</p>
-
-<p align="left">
-    <p><sub>Design & CMS</sub></p>
-  <img 
-    height="35"
-    src="https://skillicons.dev/icons?i=figma,xd,wordpress&theme=dark" 
-  />
-</p>
-
-<h4 align="left">- Estatísticas</h4>
 
 <p align="center">
   <img width="820" src="https://raw.githubusercontent.com/pontesneto2/pontesneto2/output/github-contribution-grid-snake-dark.svg" />
